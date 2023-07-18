@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 17, 2018, 8:01:52 PM
+    Author     : Ashish Alton
+*/
+
+#AnchorPane{
+    -fx-background-color: #607D8B;;
+}
+
+#label-bright {
+    -fx-font-size: 17pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: #ECEFF1;
+    -fx-color:#ECEFF1;
+    -fx-opacity: 1;
+}

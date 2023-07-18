@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Mart.jnlp">
+  <information>
+    <title>Mart</title>
+    <vendor>Ashish Alton</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Mart.jar" size="20623" download="eager" />
+    <jar href="lib\jfoenix-1.4.0.jar" size="2363143" download="eager" />
+    <jar href="lib\mysql-connector-java-5.1.46-bin.jar" size="1004840" download="eager" />
+    <jar href="lib\mysql-connector-java-5.1.46.jar" size="1004838" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Mart" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="mart.Mart"  name="Mart" />
+  <update check="always"/>
+</jnlp>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mart/External Libraries/External Libraries.iml" filepath="$PROJECT_DIR$/Mart/External Libraries/External Libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mart/Mart.iml" filepath="$PROJECT_DIR$/Mart/Mart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/StockMart.iml" filepath="$PROJECT_DIR$/.idea/StockMart.iml" />
+    </modules>
+  </component>
+</project>
